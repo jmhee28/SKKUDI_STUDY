@@ -66,3 +66,24 @@ for(let value of data){
 // NaN
 // null
 
+var str = "hello world!!!";
+
+for(let value of str ){
+    console.log(value);
+}
+
+// result :
+// h
+// e
+// l
+// l
+// o
+ 
+// w
+// o
+// r
+// l
+// d
+// !
+// !
+// !
