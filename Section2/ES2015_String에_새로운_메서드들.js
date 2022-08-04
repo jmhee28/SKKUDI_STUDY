@@ -2,7 +2,7 @@
 
 // startswith : str이 hello로 시작하는지 알 수 있는 함수
 // endswith : str이 ~~로 끝나는지 알 수 있는 함수
-// inlcude: str이 포함되는지 알 수 있느 함수
+// inlcudes: str이 포함되는지 알 수 있느 함수
 let str = "hello world ! ^^ ~~";
 let matchstr = "hello"; 
 let matchendstr = "~~";
